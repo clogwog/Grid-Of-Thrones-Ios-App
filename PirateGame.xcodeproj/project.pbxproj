@@ -39,7 +39,6 @@
 		F92A3332192CE4AD00E2CF0C /* arrow-up.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A332F192CE4AD00E2CF0C /* arrow-up.png */; };
 		F92A3333192CE4AD00E2CF0C /* arrow-right.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A3330192CE4AD00E2CF0C /* arrow-right.png */; };
 		F92A3334192CE4AD00E2CF0C /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A3331192CE4AD00E2CF0C /* arrow-down.png */; };
-		F95084B7194B44CE00E6A83A /* RRTest.m in Sources */ = {isa = PBXBuildFile; fileRef = F95084B6194B44CE00E6A83A /* RRTest.m */; };
 		F9CF7561192E13AF0080C98A /* RRTile.m in Sources */ = {isa = PBXBuildFile; fileRef = F9CF7560192E13AF0080C98A /* RRTile.m */; };
 		F9CF7564192E143B0080C98A /* RRTileFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = F9CF7563192E143B0080C98A /* RRTileFactory.m */; };
 /* End PBXBuildFile section */
@@ -92,8 +91,6 @@
 		F92A332F192CE4AD00E2CF0C /* arrow-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up.png"; sourceTree = "<group>"; };
 		F92A3330192CE4AD00E2CF0C /* arrow-right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-right.png"; sourceTree = "<group>"; };
 		F92A3331192CE4AD00E2CF0C /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
-		F95084B5194B44CE00E6A83A /* RRTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTest.h; sourceTree = "<group>"; };
-		F95084B6194B44CE00E6A83A /* RRTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTest.m; sourceTree = "<group>"; };
 		F9CF755F192E13AF0080C98A /* RRTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTile.h; sourceTree = "<group>"; };
 		F9CF7560192E13AF0080C98A /* RRTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTile.m; sourceTree = "<group>"; };
 		F9CF7562192E143B0080C98A /* RRTileFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTileFactory.h; sourceTree = "<group>"; };
@@ -174,7 +171,6 @@
 		F92A32F5192B864300E2CF0C /* PirateGame */ = {
 			isa = PBXGroup;
 			children = (
-				F95084B4194B44B800E6A83A /* test */,
 				F92A32FE192B864300E2CF0C /* RRAppDelegate.h */,
 				F92A32FF192B864300E2CF0C /* RRAppDelegate.m */,
 				F92A3301192B864300E2CF0C /* Main.storyboard */,
@@ -250,15 +246,6 @@
 				F92A332D192CE2D200E2CF0C /* arrow-left.png */,
 			);
 			name = arrows;
-			sourceTree = "<group>";
-		};
-		F95084B4194B44B800E6A83A /* test */ = {
-			isa = PBXGroup;
-			children = (
-				F95084B5194B44CE00E6A83A /* RRTest.h */,
-				F95084B6194B44CE00E6A83A /* RRTest.m */,
-			);
-			name = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -380,7 +367,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F92A3300192B864300E2CF0C /* RRAppDelegate.m in Sources */,
-				F95084B7194B44CE00E6A83A /* RRTest.m in Sources */,
 				F9CF7561192E13AF0080C98A /* RRTile.m in Sources */,
 				F92A32FC192B864300E2CF0C /* main.m in Sources */,
 				F92A3306192B864300E2CF0C /* RRViewController.m in Sources */,
