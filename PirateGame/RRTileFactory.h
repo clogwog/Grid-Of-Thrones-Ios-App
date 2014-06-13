@@ -8,6 +8,10 @@
 
 #import <Foundation/Foundation.h>
 
+#import "RRTile.h"
+
 @interface RRTileFactory : NSObject
+
+-(NSMutableArray*) getGrid;
 
 @end

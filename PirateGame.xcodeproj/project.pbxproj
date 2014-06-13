@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F907EF2519336D0F00155AA9 /* iron-throne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF2419336D0F00155AA9 /* iron-throne.jpg */; };
+		F907EF271933728E00155AA9 /* tyrion_worried.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF261933728E00155AA9 /* tyrion_worried.jpg */; };
+		F907EF291933729400155AA9 /* tyrion-hurt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF281933729400155AA9 /* tyrion-hurt.jpg */; };
+		F907EF2B193372E600155AA9 /* tyrion-dirty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF2A193372E600155AA9 /* tyrion-dirty.jpg */; };
+		F907EF2D1933747700155AA9 /* hodor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF2C1933747700155AA9 /* hodor.jpg */; };
+		F907EF2F193375A100155AA9 /* ghost.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF2E193375A100155AA9 /* ghost.jpg */; };
+		F907EF311933769600155AA9 /* dragon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F907EF301933769600155AA9 /* dragon.jpg */; };
+		F90A60E419375097009B920A /* whitewalker.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F90A60E319375097009B920A /* whitewalker.jpg */; };
+		F90A60E6193757B0009B920A /* hand-of-the-king-pin-usb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F90A60E5193757B0009B920A /* hand-of-the-king-pin-usb.jpg */; };
+		F90A60E819375B52009B920A /* thewall.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F90A60E719375B52009B920A /* thewall.jpg */; };
+		F90A60EA19375F22009B920A /* battleofblackwater.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F90A60E919375F22009B920A /* battleofblackwater.jpg */; };
+		F90A60EC193A0130009B920A /* Winterfell_Exterior.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F90A60EB193A0130009B920A /* Winterfell_Exterior.jpg */; };
 		F92A32F0192B864300E2CF0C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92A32EF192B864300E2CF0C /* Foundation.framework */; };
 		F92A32F2192B864300E2CF0C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92A32F1192B864300E2CF0C /* CoreGraphics.framework */; };
 		F92A32F4192B864300E2CF0C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92A32F3192B864300E2CF0C /* UIKit.framework */; };
@@ -21,6 +33,15 @@
 		F92A3311192B864300E2CF0C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F92A32F3192B864300E2CF0C /* UIKit.framework */; };
 		F92A3319192B864300E2CF0C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F92A3317192B864300E2CF0C /* InfoPlist.strings */; };
 		F92A331B192B864300E2CF0C /* PirateGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F92A331A192B864300E2CF0C /* PirateGameTests.m */; };
+		F92A3325192B8EB800E2CF0C /* map.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F92A3324192B8EB800E2CF0C /* map.jpg */; };
+		F92A3329192CD85B00E2CF0C /* tyrion-smile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F92A3328192CD85B00E2CF0C /* tyrion-smile.jpg */; };
+		F92A332E192CE2D200E2CF0C /* arrow-left.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A332D192CE2D200E2CF0C /* arrow-left.png */; };
+		F92A3332192CE4AD00E2CF0C /* arrow-up.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A332F192CE4AD00E2CF0C /* arrow-up.png */; };
+		F92A3333192CE4AD00E2CF0C /* arrow-right.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A3330192CE4AD00E2CF0C /* arrow-right.png */; };
+		F92A3334192CE4AD00E2CF0C /* arrow-down.png in Resources */ = {isa = PBXBuildFile; fileRef = F92A3331192CE4AD00E2CF0C /* arrow-down.png */; };
+		F95084B7194B44CE00E6A83A /* RRTest.m in Sources */ = {isa = PBXBuildFile; fileRef = F95084B6194B44CE00E6A83A /* RRTest.m */; };
+		F9CF7561192E13AF0080C98A /* RRTile.m in Sources */ = {isa = PBXBuildFile; fileRef = F9CF7560192E13AF0080C98A /* RRTile.m */; };
+		F9CF7564192E143B0080C98A /* RRTileFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = F9CF7563192E143B0080C98A /* RRTileFactory.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +55,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F907EF2419336D0F00155AA9 /* iron-throne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iron-throne.jpg"; sourceTree = "<group>"; };
+		F907EF261933728E00155AA9 /* tyrion_worried.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tyrion_worried.jpg; sourceTree = "<group>"; };
+		F907EF281933729400155AA9 /* tyrion-hurt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion-hurt.jpg"; sourceTree = "<group>"; };
+		F907EF2A193372E600155AA9 /* tyrion-dirty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion-dirty.jpg"; sourceTree = "<group>"; };
+		F907EF2C1933747700155AA9 /* hodor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hodor.jpg; sourceTree = "<group>"; };
+		F907EF2E193375A100155AA9 /* ghost.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ghost.jpg; sourceTree = "<group>"; };
+		F907EF301933769600155AA9 /* dragon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dragon.jpg; sourceTree = "<group>"; };
+		F90A60E319375097009B920A /* whitewalker.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = whitewalker.jpg; sourceTree = "<group>"; };
+		F90A60E5193757B0009B920A /* hand-of-the-king-pin-usb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hand-of-the-king-pin-usb.jpg"; sourceTree = "<group>"; };
+		F90A60E719375B52009B920A /* thewall.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thewall.jpg; sourceTree = "<group>"; };
+		F90A60E919375F22009B920A /* battleofblackwater.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = battleofblackwater.jpg; sourceTree = "<group>"; };
+		F90A60EB193A0130009B920A /* Winterfell_Exterior.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Winterfell_Exterior.jpg; sourceTree = "<group>"; };
 		F92A32EC192B864300E2CF0C /* PirateGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PirateGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F92A32EF192B864300E2CF0C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F92A32F1192B864300E2CF0C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +86,18 @@
 		F92A3316192B864300E2CF0C /* PirateGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PirateGameTests-Info.plist"; sourceTree = "<group>"; };
 		F92A3318192B864300E2CF0C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F92A331A192B864300E2CF0C /* PirateGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PirateGameTests.m; sourceTree = "<group>"; };
+		F92A3324192B8EB800E2CF0C /* map.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = map.jpg; sourceTree = "<group>"; };
+		F92A3328192CD85B00E2CF0C /* tyrion-smile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion-smile.jpg"; sourceTree = "<group>"; };
+		F92A332D192CE2D200E2CF0C /* arrow-left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-left.png"; sourceTree = "<group>"; };
+		F92A332F192CE4AD00E2CF0C /* arrow-up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-up.png"; sourceTree = "<group>"; };
+		F92A3330192CE4AD00E2CF0C /* arrow-right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-right.png"; sourceTree = "<group>"; };
+		F92A3331192CE4AD00E2CF0C /* arrow-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-down.png"; sourceTree = "<group>"; };
+		F95084B5194B44CE00E6A83A /* RRTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTest.h; sourceTree = "<group>"; };
+		F95084B6194B44CE00E6A83A /* RRTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTest.m; sourceTree = "<group>"; };
+		F9CF755F192E13AF0080C98A /* RRTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTile.h; sourceTree = "<group>"; };
+		F9CF7560192E13AF0080C98A /* RRTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTile.m; sourceTree = "<group>"; };
+		F9CF7562192E143B0080C98A /* RRTileFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RRTileFactory.h; sourceTree = "<group>"; };
+		F9CF7563192E143B0080C98A /* RRTileFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RRTileFactory.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +124,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F907EF2319336CF700155AA9 /* backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				F90A60EB193A0130009B920A /* Winterfell_Exterior.jpg */,
+				F90A60E919375F22009B920A /* battleofblackwater.jpg */,
+				F90A60E719375B52009B920A /* thewall.jpg */,
+				F90A60E5193757B0009B920A /* hand-of-the-king-pin-usb.jpg */,
+				F90A60E319375097009B920A /* whitewalker.jpg */,
+				F907EF301933769600155AA9 /* dragon.jpg */,
+				F907EF2E193375A100155AA9 /* ghost.jpg */,
+				F907EF2C1933747700155AA9 /* hodor.jpg */,
+				F907EF2419336D0F00155AA9 /* iron-throne.jpg */,
+				F92A3324192B8EB800E2CF0C /* map.jpg */,
+			);
+			name = backgrounds;
+			sourceTree = "<group>";
+		};
 		F92A32E3192B864200E2CF0C = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +174,7 @@
 		F92A32F5192B864300E2CF0C /* PirateGame */ = {
 			isa = PBXGroup;
 			children = (
+				F95084B4194B44B800E6A83A /* test */,
 				F92A32FE192B864300E2CF0C /* RRAppDelegate.h */,
 				F92A32FF192B864300E2CF0C /* RRAppDelegate.m */,
 				F92A3301192B864300E2CF0C /* Main.storyboard */,
@@ -119,6 +182,10 @@
 				F92A3305192B864300E2CF0C /* RRViewController.m */,
 				F92A3307192B864300E2CF0C /* Images.xcassets */,
 				F92A32F6192B864300E2CF0C /* Supporting Files */,
+				F9CF755F192E13AF0080C98A /* RRTile.h */,
+				F9CF7560192E13AF0080C98A /* RRTile.m */,
+				F9CF7562192E143B0080C98A /* RRTileFactory.h */,
+				F9CF7563192E143B0080C98A /* RRTileFactory.m */,
 			);
 			path = PirateGame;
 			sourceTree = "<group>";
@@ -126,6 +193,7 @@
 		F92A32F6192B864300E2CF0C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F92A3327192CD84700E2CF0C /* images */,
 				F92A32F7192B864300E2CF0C /* PirateGame-Info.plist */,
 				F92A32F8192B864300E2CF0C /* InfoPlist.strings */,
 				F92A32FB192B864300E2CF0C /* main.m */,
@@ -150,6 +218,47 @@
 				F92A3317192B864300E2CF0C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F92A3326192CD82100E2CF0C /* tyrion */ = {
+			isa = PBXGroup;
+			children = (
+				F907EF2A193372E600155AA9 /* tyrion-dirty.jpg */,
+				F907EF281933729400155AA9 /* tyrion-hurt.jpg */,
+				F907EF261933728E00155AA9 /* tyrion_worried.jpg */,
+				F92A3328192CD85B00E2CF0C /* tyrion-smile.jpg */,
+			);
+			name = tyrion;
+			sourceTree = "<group>";
+		};
+		F92A3327192CD84700E2CF0C /* images */ = {
+			isa = PBXGroup;
+			children = (
+				F907EF2319336CF700155AA9 /* backgrounds */,
+				F92A332A192CDF2100E2CF0C /* arrows */,
+				F92A3326192CD82100E2CF0C /* tyrion */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		F92A332A192CDF2100E2CF0C /* arrows */ = {
+			isa = PBXGroup;
+			children = (
+				F92A332F192CE4AD00E2CF0C /* arrow-up.png */,
+				F92A3330192CE4AD00E2CF0C /* arrow-right.png */,
+				F92A3331192CE4AD00E2CF0C /* arrow-down.png */,
+				F92A332D192CE2D200E2CF0C /* arrow-left.png */,
+			);
+			name = arrows;
+			sourceTree = "<group>";
+		};
+		F95084B4194B44B800E6A83A /* test */ = {
+			isa = PBXGroup;
+			children = (
+				F95084B5194B44CE00E6A83A /* RRTest.h */,
+				F95084B6194B44CE00E6A83A /* RRTest.m */,
+			);
+			name = test;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,6 +308,9 @@
 				CLASSPREFIX = RR;
 				LastUpgradeCheck = 0510;
 				TargetAttributes = {
+					F92A32EB192B864300E2CF0C = {
+						DevelopmentTeam = 9P5A7NMR7X;
+					};
 					F92A330C192B864300E2CF0C = {
 						TestTargetID = F92A32EB192B864300E2CF0C;
 					};
@@ -228,8 +340,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F907EF2B193372E600155AA9 /* tyrion-dirty.jpg in Resources */,
+				F90A60E6193757B0009B920A /* hand-of-the-king-pin-usb.jpg in Resources */,
+				F907EF2F193375A100155AA9 /* ghost.jpg in Resources */,
+				F92A3333192CE4AD00E2CF0C /* arrow-right.png in Resources */,
+				F92A3332192CE4AD00E2CF0C /* arrow-up.png in Resources */,
+				F907EF311933769600155AA9 /* dragon.jpg in Resources */,
+				F92A3334192CE4AD00E2CF0C /* arrow-down.png in Resources */,
+				F907EF291933729400155AA9 /* tyrion-hurt.jpg in Resources */,
+				F92A3329192CD85B00E2CF0C /* tyrion-smile.jpg in Resources */,
+				F90A60E819375B52009B920A /* thewall.jpg in Resources */,
+				F907EF2D1933747700155AA9 /* hodor.jpg in Resources */,
+				F92A3325192B8EB800E2CF0C /* map.jpg in Resources */,
+				F90A60E419375097009B920A /* whitewalker.jpg in Resources */,
+				F907EF2519336D0F00155AA9 /* iron-throne.jpg in Resources */,
+				F907EF271933728E00155AA9 /* tyrion_worried.jpg in Resources */,
 				F92A3308192B864300E2CF0C /* Images.xcassets in Resources */,
 				F92A32FA192B864300E2CF0C /* InfoPlist.strings in Resources */,
+				F90A60EC193A0130009B920A /* Winterfell_Exterior.jpg in Resources */,
+				F92A332E192CE2D200E2CF0C /* arrow-left.png in Resources */,
+				F90A60EA19375F22009B920A /* battleofblackwater.jpg in Resources */,
 				F92A3303192B864300E2CF0C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,8 +380,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F92A3300192B864300E2CF0C /* RRAppDelegate.m in Sources */,
+				F95084B7194B44CE00E6A83A /* RRTest.m in Sources */,
+				F9CF7561192E13AF0080C98A /* RRTile.m in Sources */,
 				F92A32FC192B864300E2CF0C /* main.m in Sources */,
 				F92A3306192B864300E2CF0C /* RRViewController.m in Sources */,
+				F9CF7564192E143B0080C98A /* RRTileFactory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,10 +509,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PirateGame/PirateGame-Prefix.pch";
 				INFOPLIST_FILE = "PirateGame/PirateGame-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,10 +524,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PirateGame/PirateGame-Prefix.pch";
 				INFOPLIST_FILE = "PirateGame/PirateGame-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +593,7 @@
 				F92A3320192B864300E2CF0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F92A3321192B864300E2CF0C /* Build configuration list for PBXNativeTarget "PirateGameTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +602,7 @@
 				F92A3323192B864300E2CF0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
